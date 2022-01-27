@@ -1,8 +1,8 @@
 # import torch
 # import requests
 #
-# CLIENT_ID = '0126dded754b4284be30213785407058'
-# CLIENT_SECRET = '5ed031092b354d529ad696b25cd3b563'
+# CLIENT_ID = ''
+# CLIENT_SECRET = ''
 #
 #
 # AUTH_URL = 'https://accounts.spotify.com/api/token'
